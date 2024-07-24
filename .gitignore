@@ -1,0 +1,10 @@
+###### Deploy
+output/
+node_modules/
+.parcel-cache/
+
+dist
+##### Nix
+result
+.direnv
+.env
